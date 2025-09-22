@@ -1,0 +1,14 @@
+[04-Oct-2023 13:59:36 UTC] PHP Warning:  Undefined variable $email in /home/thetevzd/public_html/learnquran786/email.php on line 70
+[04-Oct-2023 14:05:19 UTC] PHP Warning:  Undefined variable $email in /home/thetevzd/public_html/learnquran786/email.php on line 70
+[04-Oct-2023 14:13:11 UTC] PHP Warning:  Undefined variable $email in /home/thetevzd/public_html/learnquran786/email.php on line 76
+[04-Oct-2023 14:19:15 UTC] PHP Warning:  Undefined variable $email in /home/thetevzd/public_html/learnquran786/email.php on line 76
+[04-Oct-2023 14:39:30 UTC] PHP Warning:  Undefined variable $email in /home/thetevzd/public_html/learnquran786/email.php on line 76
+[04-Oct-2023 14:39:37 UTC] PHP Warning:  Undefined variable $email in /home/thetevzd/public_html/learnquran786/email.php on line 76
+[04-Oct-2023 14:51:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function check_input() in /home/thetevzd/public_html/learnquran786/email.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/thetevzd/public_html/learnquran786/email.php on line 14
+[04-Oct-2023 14:51:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function check_input() in /home/thetevzd/public_html/learnquran786/email.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/thetevzd/public_html/learnquran786/email.php on line 14
